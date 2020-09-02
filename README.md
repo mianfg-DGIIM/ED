@@ -17,6 +17,12 @@
 
 Estos son los contenidos que he realizado mientras cursaba esta asignatura en el **Doble Grado en Ingeniería Informática y Matemáticas** en la Universidad de Granada. Espero que te sean útiles 😊
 
+### Autores
+
+Al contenido de este repositorio han contribuido además:
+
+* Juan Manuel Mateos Pérez ([@Trajano1999](https://github.com/Trajano1999)): _compañero de [prácticas](./Prácticas)_.
+
 ### Licencia
 
 El contenido de este repositorio ha sido creado por mí y por los profesores de la asignatura, y se distribuye bajo una licencia **Creative Commons Zero v1.0 Universal** (más información [aquí](./LICENSE)).
