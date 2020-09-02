@@ -1,0 +1,40 @@
+4
+planta
+5
+Organismo vivo que crece sin poder moverse.
+Instalación industrial.
+Parte inferior del pie que está en contacto con el suelo.
+División horizontal en un edificio.
+Figura y aspecto externo de una persona o de un animal, especialmente cuando el aspecto se considera agradable o tiene características positivas.
+piso
+3
+División horizontal en un edificio.
+Capa superpuesta a otra u otras que se distingue en ciertas cosas.
+Suela del calzado o parte de ella que toca el suelo.
+hoja
+3
+Órgano de las plantas que crece en las ramas o en el tallo, generalmente de color verde, donde se realizan las funciones de transpiración y fotosíntesis.
+Lámina de metal que forma la parte cortante de un instrumento o arma blanca.
+Lámina lisa y delgada de cualquier material.
+cuchilla
+1
+Lámina de metal que forma la parte cortante de un instrumento o arma blanca.
+cuchilla
+Cuchillo grande.
+3
+hogar
+2
+Domicilio habitual de una persona en el que desarrolla su vida privada o familiar.
+Ambiente familiar que se desarrolla en la vivienda habitual.
+hoja
+2
+Pétalo de las flores.
+Programa detallado para la consecución de un objetivo concreto.
+irrisorio
+2
+Que provoca risa y burla.
+Que es muy pequeño o insignificante.
+planta
+piso
+ho
+planta

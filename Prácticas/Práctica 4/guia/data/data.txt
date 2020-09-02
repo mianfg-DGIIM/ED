@@ -1,0 +1,8 @@
+./data/guia.txt
+./data/guia2.txt
+Laureano Cruz Sol
+Tristan Salinas Porte
+956
+660123841
+Carlos Fardon Rue
+766718128
