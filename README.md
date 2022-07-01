@@ -1,6 +1,6 @@
-[⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
+[⬅ Más asignaturas del DGIIM](https://github.com/mianfg-DGIIM)
 
-![Repo image](https://repository-images.githubusercontent.com/292303542/e6d62700-ed37-11ea-91ac-b25deae66ef3)
+![Repo image](https://repository-images.githubusercontent.com/292303542/ebb02509-d2cd-4fb1-b577-099b6ff5023c)
 
 # `ED` Estructuras de Datos
 
